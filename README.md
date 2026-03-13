@@ -29,9 +29,6 @@ A proposta é tornar o ensino da matemática mais **engajador e acessível**, ut
 - 🎨 **Protótipo (Figma)**  
   https://www.figma.com/file/7HdLtz1PND0UceWcycaiBr/Esboço-do-jogo?type=design&node-id=10-2&mode=design&t=MPvXblITliBeDBn6-0
 
-- 📑 **Documento de Apresentação**  
-  https://docs.google.com/presentation/d/1HKzUgwX9Z6RvFrI1m4-KNtMsfJHCOnK86sGc-CZltg4/edit#slide=id.g1365c9f5075_0_222
-
 ## 🚀 Objetivo
 
 O objetivo do projeto é demonstrar como **jogos podem ser utilizados como ferramenta educacional**, tornando o aprendizado de matemática mais acessível, divertido e motivador para crianças.
